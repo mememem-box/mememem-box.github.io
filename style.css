@@ -1,0 +1,17 @@
+body {
+    background: #f8f4ef;
+    color: #4b3b35;
+    font-family: "Yu Gothic UI", sans-serif;
+
+    max-width: 900px;
+    margin: auto;
+    padding: 50px;
+}
+
+h1{
+    font-size:48px;
+}
+
+p{
+    font-size:18px;
+}
